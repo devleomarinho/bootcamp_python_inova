@@ -36,3 +36,5 @@ for i in range (cadastrar):
     pessoas.append(cadastro)
 
 print('\n')
+
+
